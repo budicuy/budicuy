@@ -1,4 +1,4 @@
-# Hi there, I'm BUDIANNNOR
+# Hi there, I'm BUDIANNNOR 👋
 ___
 
 - 🌱 I’m currently learning SMK ISFI BANJARMASIN
