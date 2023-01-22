@@ -12,9 +12,9 @@
 - 📫 How to reach me: personal.budicuy@gmail.com
 - ⚡ Fun fact: Ngoding itu mudah dan menyenangkan!
 ___
-
+  <h3 align="center">About Statistics<h3/><br />  
 <p align="center">
-  <h3 align="center">About Stats<h3/><br />  
+<br />
   <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&include_all_commits=true&theme=synthwave" alt="GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=budicuy&theme=synthwave"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budicuy&layout=compact&theme=synthwave&langs_count=12"/> 
