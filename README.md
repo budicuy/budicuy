@@ -2,8 +2,7 @@
 ___
 
 - 🌱 I’m currently learning SMK ISFI BANJARMASIN
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with develop site
+- 🤔 I’m looking for help with Develop site
 - 💬 Ask me about Proagmming
 - 📫 How to reach me: personal.budicuy@gmail.com
 - ⚡ Fun fact: Ngoding itu mudah dan menyenangkan!
