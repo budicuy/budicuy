@@ -3,11 +3,10 @@ ___
 
 <p align="center">
   <br />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budicuy&layout=compact&theme=monokai&langs_count=12"/><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&include_all_commits=true&theme=monokai" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&include_all_commits=true&theme=monokai" alt="GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=budicuy&theme=monokai"/>
- 
-  <br />  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budicuy&layout=compact&theme=monokai&langs_count=12"/>
+  <br /><br /><br />
 </p>
 
 ___
