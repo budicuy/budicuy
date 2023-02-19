@@ -19,8 +19,6 @@
 <p align="center">
 <br />
   <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&include_all_commits=true&theme=synthwave" alt="GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=budicuy&theme=synthwave"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budicuy&layout=compact&theme=synthwave&langs_count=12"/> 
-  <br /><br /><br />
 
+  <br /><br /><br />
 </p>
