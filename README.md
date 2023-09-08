@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" src="img/6357b81a-ec4c-411c-b632-87d802c7b54d.jpg" align="center" alt="GitHub Readme Stats" />
+  <img width="100px" style="border-radius: 9999px;" src="img/6357b81a-ec4c-411c-b632-87d802c7b54d.jpg" align="center" alt="GitHub Readme Stats" />
   <h1 align="center">Budicuy</h1>
   <h3 align="center">Web Developer & UI/UX Designner<h3/>
    <br />
