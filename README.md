@@ -1,4 +1,4 @@
-
+<img src="img/bg.jpg" alt="bg" />
 
 
 
