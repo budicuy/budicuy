@@ -1,9 +1,11 @@
 <p align="center">
   <img width="100px" style="border-radius: 9999px;" src="img/20240425_142133.png" align="center" alt="GitHub Readme Stats" />
-  <h1 align="center">Budicuy</h1>
-  <h3 align="center">Web Developer & UI/UX Designner<h3/>
-   <br />
 </p>
+
+<div>
+  <h1 align="center" >Budicuy</h1>
+  <p align="center" >Web Developer & UI/UX Designner<p/>
+</div>
 
 ## Hi there, I'm BUDIANNNOR 👋
 
