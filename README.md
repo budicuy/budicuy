@@ -7,7 +7,6 @@
 -   💬 Ask me about Proagmming
 -   📫 How to reach me: personal.budicuy@gmail.com
 -   ⚡ Fun fact: Coding is easy and fun!
-<img src="img/20240425_172822.jpg" alt="banner"   />
 
 ### My SetUp
 
