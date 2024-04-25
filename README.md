@@ -1,11 +1,8 @@
-<p align="center">
-  <img width="100px" style="border-radius: 9999px;" src="img/20240425_142133.png" align="center" alt="GitHub Readme Stats" />
-</p>
 
-<div>
-  <h1 align="center" >Budicuy</h1>
-  <p align="center" >Web Developer & UI/UX Designner<p/>
-</div>
+
+
+
+
 
 ## Hi there, I'm BUDIANNNOR 👋
 
@@ -31,12 +28,3 @@
 - Photoshop
 - Premiere Pro
 - Office 365
-
----
-
-  <h3 align="center">About Statistics<h3/><br />  
-<p align="center">
-<br />
-  <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&include_all_commits=true&theme=synthwave" alt="GitHub stats" /><br />
-  <br /><br /><br />
-</p>
