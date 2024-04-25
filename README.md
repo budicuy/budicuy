@@ -13,6 +13,23 @@
 -   📫 How to reach me: personal.budicuy@gmail.com
 -   ⚡ Fun fact: Coding is easy and fun!
 
+## MY SETUP
+
+-   Axioo Hype 5 Amd
+-   AMD RYZEN 5 - 5500U
+-   RAM 8
+-   SSD 258
+-   AMD Radeon(TM) Graphics
+
+## Tools
+
+- Visual Studio Code
+- Laragon
+- Canva
+- Photoshop
+- Premiere Pro
+- Office 365
+
 ---
 
   <h3 align="center">About Statistics<h3/><br />  
