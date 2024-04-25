@@ -7,11 +7,11 @@
 
 ### Hi there, I'm BUDIANNNOR 👋
 
--   🌱 I’m currently learning SMK ISFI BANJARMASIN
+-   🌱 I’m currently learning polytechnic state of banjarmasin
 -   🤔 I’m looking for help with Develop site
 -   💬 Ask me about Proagmming
 -   📫 How to reach me: personal.budicuy@gmail.com
--   ⚡ Fun fact: Ngoding itu mudah dan menyenangkan!
+-   ⚡ Fun fact: Coding is easy and fun!
 
 ---
 
@@ -19,6 +19,5 @@
 <p align="center">
 <br />
   <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&include_all_commits=true&theme=synthwave" alt="GitHub stats" /><br />
-
   <br /><br /><br />
 </p>
