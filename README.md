@@ -1,8 +1,4 @@
-<img src="img/bg.jpg" alt="bg" />
-
-
-
-
+<img src="img/20240425_172520.jpg" alt="bg" />
 
 ## Hi there, I'm BUDIANNNOR 👋
 
@@ -28,3 +24,5 @@
 - Photoshop
 - Premiere Pro
 - Office 365
+
+<img src="img/20240425_172822.jpg" alt="bg" />
