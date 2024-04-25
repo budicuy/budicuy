@@ -8,7 +8,7 @@
 - 📫 How to reach me: personal.budicuy@gmail.com
 - ⚡ Fun fact: Coding is easy and fun!
 
-### My SetUp
+### My SetUp 💻
 
 - Axioo Hype 5 AMD
 - AMD RYZEN 5 - 5500U
@@ -16,7 +16,7 @@
 - SSD 258
 - AMD Radeon(TM) Graphics
 
-### Tools
+### Tools 🧬
 
 - Visual Studio Code
 - Laragon
