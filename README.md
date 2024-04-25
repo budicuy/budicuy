@@ -24,5 +24,3 @@
 - Photoshop
 - Premiere Pro
 - Office 365
-
-<img src="img/20240425_172822.jpg" alt="bg" />
