@@ -1,4 +1,4 @@
-<img src="img/20240425_172520.jpg" alt="bg" />
+<img src="img/20240425_172520.jpg" alt="banner"   />
 
 ## Hi there, I'm BUDIANNNOR 👋
 
@@ -7,10 +7,11 @@
 -   💬 Ask me about Proagmming
 -   📫 How to reach me: personal.budicuy@gmail.com
 -   ⚡ Fun fact: Coding is easy and fun!
+<img src="img/20240425_172822.jpg" alt="banner"   />
 
 ### My SetUp
 
--   Axioo Hype 5 Amd
+-   Axioo Hype 5 AMD
 -   AMD RYZEN 5 - 5500U
 -   RAM 8
 -   SSD 258
