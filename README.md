@@ -24,3 +24,5 @@
 - Photoshop
 - Premiere Pro
 - Office 365
+- After Effect
+- CorelDraw
