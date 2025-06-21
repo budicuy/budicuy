@@ -5,13 +5,18 @@
 - 💬 Ask me about Proagmming
 - 📫 How to reach me: personal.budicuy@gmail.com
 - ⚡ Fun fact: Coding is easy and fun!
-### My SetUp 💻
+### My Setup 💻
 - Axioo Hype 5 AMD
 - AMD RYZEN 5 - 5500U
 - RAM 16 GB
-- SSD 258 GB
+- SSD 256 GB
 - AMD Radeon(TM) Graphics
 - ArchLinux (ChachyOS)
+### Phone Setup
+- POCO F5 (Costum ROM)
+- Android 13 OS MiuiZK Base CN
+- Root KenelSU + Overclock CPU & GPU
+- Glow Kernel + Driver GPU SD 8 Gen 3
 ### Tools 🧬
 - Visual Studio Code
 - Canva
