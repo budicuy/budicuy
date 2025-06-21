@@ -47,6 +47,12 @@
 ### AI
 - GeminiAI
 - ClaudeAI
+- ChatGPT
+- DeepSeek
+- NoteBookLM
+- AiStudio
+- Github Copilot
+- AI Agent
 ### Automation
 - N8N
 ### Game Engine
