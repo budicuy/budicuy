@@ -11,12 +11,12 @@
 - RAM 16 GB
 - SSD 256 GB
 - AMD Radeon(TM) Graphics
-- ArchLinux (ChachyOS)
+- FedoraOS
 ### Phone Setup
-- POCO F5 (Costum ROM)
-- Android 13 OS MiuiZK Base CN
-- Root KenelSU + Overclock CPU & GPU
-- Glow Kernel + Driver GPU SD 8 Gen 3
+- POCO F5 - Snapdragon 7+ Plug Gen 2 (Costum ROM)
+- Android 13 OS MiuiZK
+- Root KenelSU Next
+- Glow Kernel
 ### Tools 🧬
 - Visual Studio Code
 - Canva
@@ -36,11 +36,12 @@
 - VueJS
 - NuxtJS
 - Flutter
-- C#
+- C, C++, C#
 - Java
 ### Databases
 - MySQL
 - PosgreeSQL
+- Neon Database
 - MonggoDB
 - Firebase
 - Supabase
@@ -52,10 +53,10 @@
 - NoteBookLM
 - AiStudio
 - Github Copilot
-- AI Agent
 ### Automation
 - N8N
 ### Game Engine
 - Godot
+- Unity
 ### 3D Modeling
 - Blender
