@@ -1,4 +1,4 @@
-<img style="width: 100%; border-radius: 10px;" src="img/20240425_172520.jpg" alt="">
+<img style="width: 100%; border-radius: 10px;" src="img/me.jpg" alt="">
 
 ## Hi there, I'm BUDIANNNOR 👋
 - 🌱 I’m currently learning polytechnic state of banjarmasin
