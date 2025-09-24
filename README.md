@@ -20,6 +20,7 @@
 ### Tools 🧬
 - Visual Studio Code
 - Canva
+- Cursor
 - Filmora
 - Capcut
 - Chrome
@@ -37,7 +38,6 @@
 - NuxtJS
 - Flutter
 - C, C++, C#
-- Java
 ### Databases
 - MySQL
 - PosgreeSQL
@@ -49,14 +49,7 @@
 - GeminiAI
 - ClaudeAI
 - ChatGPT
-- DeepSeek
-- NoteBookLM
-- AiStudio
 - Github Copilot
-### Automation
-- N8N
 ### Game Engine
 - Godot
 - Unity
-### 3D Modeling
-- Blender
