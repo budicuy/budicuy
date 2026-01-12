@@ -1,6 +1,4 @@
-# 🚀 Halo, Saya Budi! 👋
-
-### Fullstack Web Developer | Mahasiswa Teknik Informatika POLIBAN | Freelancer
+# Hi there 👋
 
 Saya adalah seorang **Fullstack Web Developer** yang berbasis di Banjarmasin. Saat ini, saya aktif menempuh pendidikan di **Teknik Informatika Politeknik Negeri Banjarmasin** sambil membangun karier sebagai **Freelancer**. Saya sangat mendalami ekosistem **Laravel** dan **Next.js** untuk menciptakan solusi digital yang fungsional, estetik, dan skalabel.
 
