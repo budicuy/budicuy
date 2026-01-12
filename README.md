@@ -31,6 +31,12 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 
 ---
 
+### 🎓 Pendidikan & Pelatihan
+Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
+> **Dicoding • IdCamp • FreeCodeCamp • Telkom • DTS • Google Cloud Arcade**
+
+---
+
 <p align="center">
   <h1 align="center">
 🛠️ Tech Stack & Tools</h1>
@@ -95,9 +101,7 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 
 ---
 
-### 🎓 Pendidikan & Pelatihan
-Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
-> **Dicoding • IdCamp • FreeCodeCamp • Telkom • DTS • Google Cloud Arcade**
+
 
 ---
 
