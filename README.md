@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=budicuy" alt="profile" />
-  <img src="https://komarev.com/ghpvc/?username=budicuy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=budicuy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
@@ -101,9 +104,6 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 
 ---
 
-
-
----
 
 ### 📫 Mari Berkolaborasi!
 * **LinkedIn:** [linkedin.com/in/budicuy](https://linkedin.com/in/budicuy)
