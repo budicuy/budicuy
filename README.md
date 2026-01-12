@@ -33,8 +33,8 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 
 ### 📊 Statistik GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Statistik GitHub Budi" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budicuy&layout=compact&theme=tokyonight&hide_border=false" alt="Bahasa Pemrograman Teratas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=budicuy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Statistik Budi" height="185" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=budicuy&layout=compact&theme=tokyonight" alt="Bahasa Teratas" height="185" />
 </p>
 
 ---
