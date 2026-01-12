@@ -97,19 +97,19 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 
 <p align="center">
   <a href="https://github.com/budicuy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=budicuy&theme=tokyonight" alt="GitHub Stats" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=budicuy&theme=radical" alt="GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/budicuy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=budicuy&theme=tokyonight&utcOffset=8" alt="Productive Time" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=budicuy&theme=radical&utcOffset=8" alt="Productive Time" height="180px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/budicuy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=budicuy&theme=tokyonight" alt="Top Languages" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=budicuy&theme=radical" alt="Top Languages" height="180px" />
   </a>
   <a href="https://github.com/budicuy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" height="180px" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=radical&hide_border=true&area=true" alt="Activity Graph" height="180px" />
   </a>
 </p>
 
