@@ -93,13 +93,46 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 
 
 
-<p align="center">
-  <h1 align="center" style="text-decoration: underline;">Statistik GitHub</h1>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<h2 align="center" style="text-decoration: underline;">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/budicuy">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=budicuy&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/budicuy">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=budicuy&theme=tokyonight&hide_border=true&dates=7957d5&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/budicuy">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budicuy&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=ffffff" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Aᴄᴛɪᴠɪᴛʏ Gʀᴀᴘʜ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/budicuy">
+          <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="/img/github-snake-dark.svg" alt="Github Snake" />
