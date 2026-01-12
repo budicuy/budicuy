@@ -8,48 +8,20 @@
 ### My Setup 💻
 - Axioo Hype 5 AMD
 - AMD RYZEN 5 - 5500U
-- RAM 16 GB
-- SSD 256 GB
-- AMD Radeon(TM) Graphics
-- FedoraOS
-### Phone Setup
-- POCO F5 - Snapdragon 7+ Plug Gen 2 (Costum ROM)
-- Android 13 OS MiuiZK
-- Root KenelSU Next
-- Glow Kernel
+- OS ArchLinux
 ### Tools 🧬
 - Visual Studio Code
 - Canva
-- Cursor
-- Filmora
-- Capcut
-- Chrome
 - Figma
-- Inkscape
-- Adobe
 - Office365
 - Github
+- NodeJS
 ### Progamming
 - Laravel
 - NextJS
-- ReactJS
-- React Native
-- VueJS
-- NuxtJS
-- Flutter
-- C, C++, C#
+- Go
+- TailwindCSS
 ### Databases
 - MySQL
 - PosgreeSQL
-- Neon Database
-- MonggoDB
-- Firebase
-- Supabase
-### AI
-- GeminiAI
-- ClaudeAI
-- ChatGPT
-- Github Copilot
-### Game Engine
-- Godot
-- Unity
+- Sqlite
