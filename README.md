@@ -109,5 +109,5 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 ---
 
 <div align="center">
-  <img src="/img/github-snake.svg" alt="Github Snake" />
+  <img src="/img/github-snake-dark.svg" alt="Github Snake" />
 </div>
