@@ -1,10 +1,14 @@
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=budicuy" alt="profile" />
 </p>
+<div align="center">
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=budicuy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/budicuyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/budiannor-5000a728b) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/budi_nnr) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://budiannor.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/budicuy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Budddx/) [![Dicoding](https://img.shields.io/badge/Dicoding-2D3E50?logo=dicoding&logoColor=white)](https://www.dicoding.com/users/budiannor/academies)
+
+</div>
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=budicuy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></p>
 
 
 
@@ -93,7 +97,7 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
+
 
 <p align="center">
   <h1 align="center" style="text-decoration: underline;">Statistik GitHub</h1>
@@ -104,10 +108,6 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 
 ---
 
-
-### 📫 Mari Berkolaborasi!
-* **LinkedIn:** [linkedin.com/in/budicuy](https://linkedin.com/in/budicuy)
-* **Email:** [Email Kamu]
-* **Instagram:** [@Instagram Kamu]
-
-*"Berinovasi melalui teknologi, memberikan dampak melalui solusi."*
+<div align="center">
+  <img src="/img/github-snake.svg" alt="Github Snake" />
+</div>
