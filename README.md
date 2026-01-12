@@ -50,6 +50,4 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 * **Email:** [Email Kamu]
 * **Instagram:** [@Instagram Kamu]
 
-*"Berinovasi melalui kode, memberikan dampak melalui solusi."*
-
-​Selain fokus pada aspek teknis, saya memiliki jiwa kepemimpinan yang kuat melalui keterlibatan aktif di berbagai organisasi. Saya pernah mengemban amanah sebagai Ketua Umum Komunitas Itech Poliban, di mana saya memimpin pengembangan bakat teknologi mahasiswa. Saya juga dipercaya menjadi Menteri Komunikasi dan Informasi di Badan Eksekutif Mahasiswa (BEM) Poliban, serta aktif dalam divisi Humas KSR PMI Unit Poliban. Untuk terus memperbarui keahlian, saya rutin mengikuti pelatihan IT tingkat nasional dan global, seperti di Dicoding, IdCamp, FreeCodeCamp, Telkom, DTS, hingga Google Cloud Arcade. Dengan kombinasi pengalaman teknis dan organisasi ini, saya siap menghadapi tantangan di industri teknologi masa kini.
+*"Berinovasi melalui teknologi, memberikan dampak melalui solusi."*
