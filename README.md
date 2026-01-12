@@ -86,7 +86,9 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 
 ---
 
-### 📊 Statistik GitHub
+<p align="center">
+  <h1 align="center" style="text-decoration: underline;">Statistik GitHub</h1>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
