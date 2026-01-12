@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=budicuy" alt="profile" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=budicuy&theme=radical" alt="profile" />
 </p>
 <div align="center">
 
