@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=budicuy" alt="profile" />
-  
+  <img src="https://komarev.com/ghpvc/?username=budicuy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 # Hi there 👋
@@ -39,11 +38,6 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 ---
 
 ### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=budicuy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
