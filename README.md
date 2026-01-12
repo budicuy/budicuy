@@ -52,25 +52,4 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 
 *"Berinovasi melalui kode, memberikan dampak melalui solusi."*
 
-​Selain fokus pada aspek teknis, saya memiliki jiwa kepemimpinan yang kuat melalui keterlibatan aktif di berbagai organisasi. Saya pernah mengemban amanah sebagai Ketua Umum Komunitas Itech Poliban, di mana saya memimpin pengembangan bakat teknologi mahasiswa. Saya juga dipercaya menjadi Menteri Komunikasi dan Informasi di Badan Eksekutif Mahasiswa (BEM) Poliban, serta aktif dalam divisi Humas KSR PMI Unit Poliban. Untuk terus memperbarui keahlian, saya rutin mengikuti pelatihan IT tingkat nasional dan global, seperti di Dicoding, IdCamp, FreeCodeCamp, Telkom, DTS, hingga Google Cloud Arcade. Dengan kombinasi pengalaman teknis dan organisasi ini, saya siap menghadapi tantangan di industri teknologi masa kini
-
-### My Setup 💻
-- Axioo Hype 5 AMD
-- AMD RYZEN 5 - 5500U
-- OS ArchLinux
-### Tools 🧬
-- Visual Studio Code
-- Canva
-- Figma
-- Office365
-- Github
-- NodeJS
-### Progamming
-- Laravel
-- NextJS
-- Go
-- TailwindCSS
-### Databases
-- MySQL
-- PosgreeSQL
-- Sqlite
+​Selain fokus pada aspek teknis, saya memiliki jiwa kepemimpinan yang kuat melalui keterlibatan aktif di berbagai organisasi. Saya pernah mengemban amanah sebagai Ketua Umum Komunitas Itech Poliban, di mana saya memimpin pengembangan bakat teknologi mahasiswa. Saya juga dipercaya menjadi Menteri Komunikasi dan Informasi di Badan Eksekutif Mahasiswa (BEM) Poliban, serta aktif dalam divisi Humas KSR PMI Unit Poliban. Untuk terus memperbarui keahlian, saya rutin mengikuti pelatihan IT tingkat nasional dan global, seperti di Dicoding, IdCamp, FreeCodeCamp, Telkom, DTS, hingga Google Cloud Arcade. Dengan kombinasi pengalaman teknis dan organisasi ini, saya siap menghadapi tantangan di industri teknologi masa kini.
