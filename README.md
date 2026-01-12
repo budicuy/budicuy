@@ -95,44 +95,23 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 
 <h2 align="center" style="text-decoration: underline;">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/budicuy">
-          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=budicuy&theme=tokyonight" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Pʀᴏᴅᴜᴄᴛɪᴠᴇ Tɪᴍᴇ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/budicuy">
-          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=budicuy&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/budicuy">
-          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=budicuy&theme=tokyonight" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Aᴄᴛɪᴠɪᴛʏ Gʀᴀᴘʜ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/budicuy">
-          <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/budicuy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=budicuy&theme=tokyonight" alt="GitHub Stats" height="180px" />
+  </a>
+  <a href="https://github.com/budicuy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=budicuy&theme=tokyonight&utcOffset=8" alt="Productive Time" height="180px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/budicuy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=budicuy&theme=tokyonight" alt="Top Languages" height="180px" />
+  </a>
+  <a href="https://github.com/budicuy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" height="180px" />
+  </a>
+</p>
 
 <div align="center">
   <img src="/img/github-snake-dark.svg" alt="Github Snake" />
