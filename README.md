@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=budicuy" alt="profile />
+<img src="https://github-stats-alpha.vercel.app/api?username=budicuy" alt="profile" />
   </p>
 
 # Hi there 👋
