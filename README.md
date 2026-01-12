@@ -109,7 +109,7 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=budicuy&theme=radical" alt="Top Languages" height="180px" />
   </a>
   <a href="https://github.com/budicuy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=radical&hide_border=true&area=true" alt="Activity Graph" height="180px" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" height="180px" />
   </a>
 </p>
 
