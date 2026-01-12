@@ -31,10 +31,15 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<p align="center">
+  <h1 align="center">
+🛠️ Tech Stack & Tools</h1>
+</p>
 
-**Frontend Development**
-<p>
+<p align="center">
+  <b>Frontend Development</b>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -43,8 +48,10 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
 </p>
 
-**Backend Development**
-<p>
+<p align="center">
+  <b>Backend Development</b>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -53,8 +60,10 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
 </p>
 
-**Database & Cloud**
-<p>
+<p align="center">
+  <b>Database & Cloud</b>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
@@ -63,8 +72,10 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-**Tools For Production**
-<p>
+<p align="center">
+  <b>Tools For Production</b>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
