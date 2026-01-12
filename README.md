@@ -16,9 +16,9 @@
 
 Saya adalah seorang **Fullstack Web Developer** yang berbasis di Banjarmasin. Saat ini, saya aktif menempuh pendidikan di **Teknik Informatika Politeknik Negeri Banjarmasin** sambil membangun karier sebagai **Freelancer**. Saya sangat mendalami ekosistem **Laravel** dan **Next.js** untuk menciptakan solusi digital yang fungsional, estetik, dan skalabel.
 
----
 
 ### 💻 Pengalaman Proyek & Industri
+
 Saya memiliki pengalaman membangun sistem informasi kompleks untuk skala perusahaan besar hingga organisasi, di antaranya:
 
 * **SIPO (Sistem Informasi Poliklinik)** – Sistem manajemen layanan kesehatan terintegrasi.
@@ -28,21 +28,15 @@ Saya memiliki pengalaman membangun sistem informasi kompleks untuk skala perusah
 * **Marganasana Car Rental** – Sistem booking armada rental mobil di Banjarmasin.
 * **Website KSR PMI Unit Poliban** & **Alquran Digital**.
 
----
-
 ### 🏛️ Kepemimpinan & Organisasi
 Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 * **Ketua Umum** - Komunitas Itech Poliban
 * **Menteri Komunikasi dan Informasi** - BEM Politeknik Negeri Banjarmasin
 * **Divisi Humas** - KSR PMI Unit Poliban
 
----
-
 ### 🎓 Pendidikan & Pelatihan
 Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
 > **Dicoding • IdCamp • FreeCodeCamp • Telkom • DTS • Google Cloud Arcade**
-
----
 
 <p align="center">
   <h1 align="center">
@@ -106,7 +100,6 @@ Saya terus memperbarui ilmu melalui berbagai platform terakreditasi:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=budicuy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
----
 
 <div align="center">
   <img src="/img/github-snake-dark.svg" alt="Github Snake" />
