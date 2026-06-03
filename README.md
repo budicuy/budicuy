@@ -36,13 +36,13 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 
 ### 🎓 Pendidikan & Pelatihan
 Saya terus memperbarui ilmu melalui berbagai platform terak> **Dicoding •  • DTS • Google Cloud Arcade*
-> IdCamp
-> Dicoding.com
-> FreeCodeCamp
-> Digital Talent Scholarship
-> Telkom DigiUp
-> Google Cloud Arcade
-> Microsoft Learn
+* IdCamp
+* Dicoding.com
+* FreeCodeCamp
+* Digital Talent Scholarship
+* Telkom DigiUp
+* Google Cloud Arcade
+* Microsoft Learn
 
 <p align="center">
   <h1 align="center">
