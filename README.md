@@ -35,7 +35,7 @@ Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
 * **Divisi Humas** - KSR PMI Unit Poliban
 
 ### 🎓 Pendidikan & Pelatihan
-Saya terus memperbarui ilmu melalui berbagai platform terak> **Dicoding •  • DTS • Google Cloud Arcade*
+Saya terus memperbarui ilmu melalui berbagai platform terak
 * IdCamp
 * Dicoding.com
 * FreeCodeCamp
