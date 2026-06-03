@@ -21,12 +21,13 @@ Saya adalah seorang **Fullstack Web Developer** yang berbasis di Banjarmasin. Sa
 
 Saya memiliki pengalaman membangun sistem informasi kompleks untuk skala perusahaan besar hingga organisasi, di antaranya:
 
-* **SIPO (Sistem Informasi Poliklinik)** – Sistem manajemen layanan kesehatan terintegrasi.
-* **SAPA (Sistem Satpam Patroli) @ PT. Indofood** – Digitalisasi sistem kontrol keamanan industri.
 * **Company Profile PT. Difa Mahakarya** – Membangun identitas digital profesional perusahaan.
 * **SIP Tarjun & Stagen** – Sistem manajemen penumpang transportasi di Kota Baru.
 * **Marganasana Car Rental** – Sistem booking armada rental mobil di Banjarmasin.
 * **Website KSR PMI Unit Poliban** & **Alquran Digital**.
+* **SIPO - Sistem Informasi Poliklinik PT. Indofood Sukses Makmur Tbk.**
+* **SAPA - Satpam Patroli : Berbasis Website Tracking GPS Location.**
+* **Itechpoliban.com : Landing Page Organisasi**
 
 ### 🏛️ Kepemimpinan & Organisasi
 Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
