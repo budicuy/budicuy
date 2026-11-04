@@ -21,12 +21,12 @@ Saya adalah seorang **Fullstack Web Developer** yang berbasis di Banjarmasin. Sa
 
 Saya memiliki pengalaman membangun sistem informasi kompleks untuk skala perusahaan besar hingga organisasi, di antaranya:
 
-* **Company Profile PT. Difa Mahakarya** – Membangun identitas digital profesional perusahaan.
+* **Company Profile PT. Difa Mahakarya** – Website Profile Produk, Jasa dan Identitas Perusahaan PT. Difa Mahakarya.
 * **SIP Tarjun & Stagen** – Sistem manajemen penumpang transportasi di Kota Baru.
 * **Marganasana Car Rental** – Sistem booking armada rental mobil di Banjarmasin.
-* **Website KSR PMI Unit Poliban**.
+* **Website Organisasi mahasiswa KSR PMI Unit Poliban**.
 * **SIPO - Sistem Informasi Poliklinik PT. Indofood Sukses Makmur Tbk.**
-* **SAPA - Satpam Patroli : Berbasis Website Tracking GPS Location.**
+* **SAPA - Satpam Patroli : Berbasis Website Tracking GPS Location. Pada PT. Indofood Sukses Makmur Tbk.**
 * **SICUAN : Sistem Informasi Berbasis web Manajamen data sampah Produk PT. Indofood Sukses Makmur Tbk.**
 
 ### 🏛️ Kepemimpinan & Organisasi
