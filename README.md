@@ -24,10 +24,10 @@ Saya memiliki pengalaman membangun sistem informasi kompleks untuk skala perusah
 * **Company Profile PT. Difa Mahakarya** – Membangun identitas digital profesional perusahaan.
 * **SIP Tarjun & Stagen** – Sistem manajemen penumpang transportasi di Kota Baru.
 * **Marganasana Car Rental** – Sistem booking armada rental mobil di Banjarmasin.
-* **Website KSR PMI Unit Poliban** & **Alquran Digital**.
+* **Website KSR PMI Unit Poliban**.
 * **SIPO - Sistem Informasi Poliklinik PT. Indofood Sukses Makmur Tbk.**
 * **SAPA - Satpam Patroli : Berbasis Website Tracking GPS Location.**
-* **Itechpoliban.com : Landing Page Organisasi**
+* **SICUAN : Sistem Informasi Berbasis web Manajamen data sampah Produk PT. Indofood Sukses Makmur Tbk.**
 
 ### 🏛️ Kepemimpinan & Organisasi
 Bagi saya, teknologi harus diimbangi dengan kemampuan manajerial yang baik:
